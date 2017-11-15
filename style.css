@@ -16,7 +16,7 @@ body {
   font-size: 32px;
   opacity: 0;
   animation-delay: 10s;
-  animation-duration: 2s;
+  animation-duration: 3s;
   animation-name: a-long-time-ago;
   animation-timing-function: ease-out;
   color: #39464E;
@@ -48,7 +48,7 @@ body {
 .texte > div{
     position: absolute;
     top: 100%;
-    animation-delay: 12s; /* Démarre l'animation après la première */
+    animation-delay: 13s; /* Démarre l'animation après la première */
     animation-duration: 21s;
     animation-name: texte;
     animation-timing-function: linear;
